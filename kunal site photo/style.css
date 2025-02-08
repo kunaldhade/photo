@@ -1,0 +1,67 @@
+<style>
+
+h1{
+    color: rgb(236, 22, 22);
+   
+    
+}
+h2{
+    color: rgb(125, 6, 6);
+    font-size: 30px;
+    text-shadow: 5px 4px 4px whitesmoke;
+      
+}
+
+p{
+    background-color: rgb(187, 187, 152);
+    color: rgb(9, 8, 0);
+    font-style: italic;
+    font-size: 20px;
+    margin: 10px;
+    
+    
+    
+}
+   
+.button1{
+    background-color: rgb(167, 223, 37);
+    font-size: 22px;
+    border-radius: 7px;
+    margin-left: 900px;
+   
+    
+}
+.button2{
+    background-color: rgb(223, 48, 129);
+    font-size: 20px;
+    border-radius: 7px;
+    margin-left: 900px;
+    margin-bottom: 10px;
+    
+
+}
+.button4{
+    background-color: rgb(167, 223, 37);
+    font-size: 22px;
+    border-radius: 7px;
+    margin-left: 900px;
+    margin-top: 5px;
+
+
+}
+
+body{
+    background-color: rgb(6, 127, 87);
+
+}
+.img1{
+    margin: 10px;
+    
+}
+
+h3{
+    font-size: 25px;
+}
+
+
+</style>

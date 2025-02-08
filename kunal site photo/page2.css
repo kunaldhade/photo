@@ -1,0 +1,40 @@
+<style>
+
+h1{
+    color: rgb(140, 255, 0);
+    
+}
+h2{
+    color: rgb(241, 23, 23);
+    font-size: 40px;
+    text-shadow: 5px 6px 4px rgb(141, 110, 65);
+    
+}
+body{
+   background-color: rgb(93, 55, 135);
+    
+}
+.button3{
+    font-size: 25px;
+    margin-top: 20px;
+    float: right;
+    margin-right: 23px;
+    color: rgb(198, 255, 76);
+    background-color: brown;
+}
+.button5{
+    font-size: 25px;
+    margin-top: 20px;
+    float: right;
+    margin-right: 23px;
+    color: rgb(168, 57, 40);
+    background-color: rgb(147, 215, 65);
+    
+    
+  
+
+
+}
+
+
+</style>
